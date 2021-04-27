@@ -2,8 +2,12 @@
 
 Sou o Lucas Furlan, de Santa Bárbara d'Oeste para o mundo! 😁
 
-Atualmente moro em Barueri, na grande SP, e trabalho na Eiprice como Full Stack Developer. Comecei minha carreira com programação web aos 16 anos e já trabalhei em empresas como Dextra e Livelo. 
+Meu propósito é desenvolver produtos que tragam facilidade na vida do usuário.
 
-Estou sempre a procura de conhecimento, hoje estou focado em melhorar minhas habilidades com React.
+Desenvolvedor web com mais de 5 anos de experiência e boa parte desse tempo na área de marketing, desenvolvendo sites, landing pages, e-mail marketing, blogs, e-commerce e web app.
+
+Faço parte do time de desenvolvedores da ConstruCode e estou cursando MBA em Desenvolvimento Full Stack pelo IGTI.
+
+Javascript | HTML | CSS | Node.js | Typescript | React.js | PostgreSQL | MySQL | PHP | UX/UI
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfurlan)](https://www.linkedin.com/in/devfurlan)

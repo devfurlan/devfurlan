@@ -6,7 +6,7 @@ Meu propósito é desenvolver produtos que tragam facilidade na vida do usuário
 
 Desenvolvedor web com mais de 5 anos de experiência e boa parte desse tempo na área de marketing, desenvolvendo sites, landing pages, e-mail marketing, blogs, e-commerce e web app.
 
-Faço parte do time de desenvolvedores da ConstruCode e estou cursando MBA em Desenvolvimento Full Stack pelo IGTI.
+Faço parte do time de desenvolvedores da ConstruCode.
 
 Javascript | HTML | CSS | Node.js | Typescript | React.js | PostgreSQL | MySQL | PHP | UX/UI
 
